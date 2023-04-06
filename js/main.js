@@ -21,14 +21,15 @@ function getYe(){
                     //     let yeAss = ['img/ye.webp', 'img/ye1.png', 'img/ye2.jpeg', 'img/ye3.jpg']
                     // console.log(Math.floor(Math.random()), 'math')
                     // document.querySelector('img').src = yeAss[Math.random() * (1 - 4) + 1]}
-                    document.querySelector('img').src = 'img/ye2.jpeg'
+                    document.querySelector('img').src = 'img/ye2.jpg'
                 //    randomYe
                     return
                 
               }
             })
             .catch(err => {
-                console.log(`error ${err}`)
+                alert(`${err}`)
+                document.querySelector('img').src = 'img/ye2.jpg'
             });
     }
     getMet()
