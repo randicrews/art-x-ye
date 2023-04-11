@@ -1,5 +1,5 @@
 let yeLength = 0
-
+document.querySelector('button').addEventListener('click', newYe)
 function getYe(){
     const url = (`https://api.kanye.rest`)
     fetch(url)
@@ -39,3 +39,8 @@ function getYe(){
     });
 }
 getYe()
+
+
+function newYe(){
+    location.reload()
+}
