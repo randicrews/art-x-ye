@@ -1,22 +1,16 @@
-# 📊 Project: Complex API 
+# YE x MET
+What do you get when you use the quotes fetched from KanyeRest API to fetch images from The Metropolitan Museum of Art collection? This ironic masterpiece. 
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+[Check it out here :sparkles:](https://yexmet.netlify.app/)
 
-### How to submit your code for review:
+<a href="https://yexmet.netlify.app/" target="_blank">
+    <img src="https://github.com/randicrews/art-x-ye/blob/answer/ye2.gif"/>
+</a>
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## USING
+- HTML
+- CSS
+- JS
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## TAKEAWAY
+I had a lot of fun with the way data was displayed here. It really felt like an art project as much as a practice using web APIs.
